@@ -145,4 +145,10 @@ p{
         padding-right: 20px;
         float: right;
     }
+    .total{
+        padding-left: 95px;
+    }
+    .sign{
+        margin-top: 20px;
+    }
 }
